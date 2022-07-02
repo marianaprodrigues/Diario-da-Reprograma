@@ -9,4 +9,4 @@ Coisas legais que podem ser aprendidas com esse projeto:
 <li>Criação de componentes com props</li>
 <li>Estilização dos componentes</li>
 
-<img src="./animação.gif">
+<img src="https://media4.giphy.com/media/hQ7n9dPBoq6YVZSIlA/giphy.gif?cid=790b7611297fb03984846eb22cbe059161ed11a248ef72af&rid=giphy.gif&ct=g">
